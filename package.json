@@ -1,0 +1,19 @@
+{
+  "name": "casacrm",
+  "private": true,
+  "version": "1.0.0",
+  "description": "CRM inmobiliario básico: propiedades, interesados y seguimiento. React + Vite, sin backend.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
