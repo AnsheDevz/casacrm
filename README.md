@@ -26,3 +26,6 @@ Para publicarlo: subir el repo a GitHub, activar *Settings → Pages → Source:
 
 ## Transparencia
 Lo desarrollé con asistencia de IA (Claude). Las decisiones de modelo de datos, las reglas del reducer y los flujos fueron revisadas y las puedo explicar; ver [NOTAS-ENTREVISTA.md](NOTAS-ENTREVISTA.md).
+
+
+**Demo en vivo:** https://anshedevz.github.io/casacrm/
